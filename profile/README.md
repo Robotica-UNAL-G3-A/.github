@@ -8,7 +8,7 @@ Using the ABB IRB 140 and RobotStudio to program routines in a robotic cell. Lea
 - [RobotStudio IO Signals](https://github.com/Robotica-UNAL-G3-A/robotics_lab2)
 
 ## ROS labs
-Series of labS using ROS as tool to develop robotic applications and control the behavior of the panthom/pincher x robot.
+Series of labs using ROS as tool to develop robotic applications and control the behavior of the panthom/pincher x robot.
 
 - [Intro to ROS](https://github.com/Robotica-UNAL-G3-A/robotics_lab3)
 - [Direct kinematics Control Pincher x](https://github.com/Robotica-UNAL-G3-A/robotics_lab4)
@@ -27,7 +27,7 @@ Series of labS using ROS as tool to develop robotic applications and control the
 
 
 ## Resources
-- [ROS package one motor](https://github.com/fegonzalez7/dynamixel_one_motor)
+- [ROS package one motor](https://github.com/fegonzalez7/dynamixel_one_motor): control movement if one dynamixel motor
 - [ROS package  px robot](https://github.com/felipeg17/px_robot)
 
 ## Other students labs honorable mentions
