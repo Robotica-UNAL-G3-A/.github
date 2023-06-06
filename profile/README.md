@@ -1,15 +1,23 @@
 # Robotica-UNAL-G3-A
 This is a collection of the repos related with the robotics class at Universidad Nacional de Colombia 2023-I
 
-## Indistrial Robotics labs
-- [RobotStudio ABB trajectory](https://github.com/Robotica-UNAL-G3-A/robotics-lab1)
-- [RobotStudio IO Signals](https://github.com/Robotica-UNAL-G3-A/robotics-lab2)
+## Industrial Robotics labs
+Using the ABB IRB 140 and RobotStudio to program routines in a robotic cell. Learning the basis of the use of robots in industrial application. 
+
+- [RobotStudio ABB trajectory](https://github.com/Robotica-UNAL-G3-A/robotics_lab1)
+- [RobotStudio IO Signals](https://github.com/Robotica-UNAL-G3-A/robotics_lab2)
 
 ## ROS labs
-- [Intro to ROS](https://github.com/Robotica-UNAL-G3-A/robotics-lab3)
-- [Direct kinematics Control Pincher x](https://github.com/Robotica-UNAL-G3-A/robotics-lab4)
+Series of labS using ROS as tool to develop robotic applications and control the behavior of the panthom/pincher x robot.
 
-## Class guides
+- [Intro to ROS](https://github.com/Robotica-UNAL-G3-A/robotics_lab3)
+- [Direct kinematics Control Pincher x](https://github.com/Robotica-UNAL-G3-A/robotics_lab4)
+- [Inverse kinematics Control Pincher x](https://github.com/Robotica-UNAL-G3-A/robotics_lab5)
+
+## Final project
+- [Robot pick and place routine](https://github.com/Robotica-UNAL-G3-A/finalProject)
+
+## ROS Class guides
 - [Getting started](https://github.com/fegonzalez7/rob_unal_clase1)
 - [Linux setup](https://github.com/fegonzalez7/rob_unal_clase2)
 - [Dynamixel first steps](https://github.com/fegonzalez7/rob_unal_clase3)
