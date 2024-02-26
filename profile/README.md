@@ -1,4 +1,7 @@
 # Robotica-UNAL-G3-A
+
+<img align = "center" alt="robot simulation" width="600" src="https://user-images.githubusercontent.com/25491198/226225536-aadbf8ba-bb00-44c1-9fbd-85daa73b9b40.gif" />
+        
 This is a collection of the repos related with the robotics class at Universidad Nacional de Colombia 2023-I
 
 ## Industrial Robotics labs
